@@ -1,0 +1,66 @@
+.form-control {
+    margin-left: 270px;
+    display: block;
+    width: 51%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #227cd6;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-bottom: 22px;
+}
+#para{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 274px;
+    
+}
+#forgetP{
+    /* font-weight: bold; */
+    color: #111011;
+    text-decoration: none;
+   
+    margin-bottom: 1rem;
+    margin-left: 274px;
+}
+#signin{
+    margin-left: 460px;
+    width: 16%;
+}
+#title{
+    font-weight: 700;
+    font-family: -webkit-body;
+}
+#login-to{
+    margin-top: -36px;
+    
+    margin-bottom: 1rem;
+    margin-left: 642px;
+}
+#regto{
+    margin-top: -54px;
+    margin-bottom: 1rem;
+    margin-left: 663px;
+}
+
+#eye{
+    margin-left: 73%;
+    margin-top: -54px;
+    margin-bottom: 2rem;
+}
+#passeye{
+    margin-left: 73%;
+    margin-bottom: 2rem;
+    margin-top: -53px;
+}
+#error{
+    color: red;
+}
